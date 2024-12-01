@@ -1,1 +1,1 @@
-Nested comments functionality in reactJS
+Nested comments functionality in reactJS.
